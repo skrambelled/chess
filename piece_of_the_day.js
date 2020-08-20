@@ -16,5 +16,5 @@ var pieces =
         "The knight is a very versatile piece, and may move in an L shape and even can jump over your own units!",
         ];
 
-document.write("<h2>Piece of the day: "+pieces[idx]+" ");
+document.write("<h2>Piece of the day: The "+pieces[idx]+". </br>");
 document.write(pieces[idx+1]+"</h2>");
