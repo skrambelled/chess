@@ -70,7 +70,7 @@ function myNumberGame() {
             }
 
             if(i>=4)
-                alert("You are out of guesses. Game over.")
+                alert("You are out of guesses. Game over. I was thinking of "+answer)
         
         }
         want_to_play = prompt("Do you want to play again?");
